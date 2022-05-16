@@ -164,3 +164,18 @@ a{
  height: 58px;
  background: #F2F2F2;                
 }
+.firstname{
+ position: absolute;
+ top: 0;
+ border-radius: 60px;                
+}
+.lastname{
+ position: absolute;
+ top: 80px;
+ border-radius: 60px;             
+}
+.email{
+ position: absolute;
+ top: 160px; 
+ border-radius: 60px;               
+}
