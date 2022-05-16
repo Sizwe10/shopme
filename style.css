@@ -10,3 +10,9 @@ body{
 a{
      text-decoration: none;
 }
+.all{
+     position: absolute;  
+     width: 90%; 
+     margin-left: 5%;
+     margin-right: 5%;         
+}
