@@ -179,3 +179,18 @@ a{
  top: 160px; 
  border-radius: 60px;               
 }
+.submit{
+ position: absolute; 
+ cursor: pointer;
+ top: 250px;
+ margin-left: 42%;
+ margin-right: 42%;
+ width: 16%;
+ height: 40px;
+ background: #FFC700;
+ border: 1px solid #957400; 
+ border-radius: 18px;
+ font-weight: bold;
+ font-size: 14px;
+ color: #FFFFFF;              
+}
