@@ -77,3 +77,12 @@ a{
   color: #FFFFFF;
   margin-top: 150PX ;             
  }
+ .header p{
+  margin-left: 5px;
+  width: 100px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  color: #543700;
+ }
