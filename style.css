@@ -57,3 +57,7 @@ a{
    font-size: 14px;
    color: #FFFFFF;     
 }
+.register a{
+   color: #FFFFFF;   
+   padding: 10px 10px;           
+ }
