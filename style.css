@@ -197,3 +197,13 @@ a{
 input[type="text"]{
  padding: 0 20px;               
 }
+
+::-webkit-input-placeholder{
+ position: absolute;
+ top: 20px;
+ font-weight: bold;
+ font-size: 18px;
+ display: flex;
+ align-items: center;
+ color: #7D7D7D;               
+}
