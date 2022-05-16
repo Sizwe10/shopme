@@ -86,3 +86,19 @@ a{
   line-height: 25px;
   color: #543700;
  }
+ .header img{
+ position: absolute;
+ right: 40px;
+ height: 589px;
+ top: 0 ;                 
+ }
+.product{
+ display: flex;
+ flex-direction: row;
+ align-items: flex-start;
+ position:absolute;
+ height: 290px;
+ left: 5%;
+ right: 5%;
+ top: 820px;               
+}
