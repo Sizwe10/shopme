@@ -125,3 +125,9 @@ a{
  line-height: 26px;
  color: #6A6A6A;               
 }
+.cart{
+ position: absolute;
+ top: 1390px;
+ text-align: right;
+ width: 100%;                
+}
