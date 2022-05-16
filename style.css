@@ -138,3 +138,13 @@ a{
  text-align: right;
  color: #000000;                
 }
+.cart p{
+ position: absolute;  
+ right: 0;
+ width: 50%;
+ font-family: sans-serif;
+ font-size: 22px;
+ line-height: 26px;
+ text-align: right;
+ color: #6A6A6A;              
+}
