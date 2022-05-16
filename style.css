@@ -110,3 +110,9 @@ a{
  width: 100%;
  top: 1180px;                
 }
+.Buy h1{
+ font-weight: bold;
+ font-size: 30px;
+ line-height: 35px;
+ color: #000000;               
+}
