@@ -45,3 +45,15 @@ a{
    line-height: 26px;  
    color: #FFFFFF;      
 }
+.register{
+   position: absolute;
+   right: 0; 
+   top: 15px; 
+   height: 35; 
+   background: #FFC700; 
+   border: 1px solid #957400;  
+   border-radius: 18px;  
+   font-weight: bold; 
+   font-size: 14px;
+   color: #FFFFFF;     
+}
