@@ -105,3 +105,8 @@ a{
 .igm1, .img2, .img3{
  margin: 0px 50px;                
 }
+.Buy{
+ position: absolute;
+ width: 100%;
+ top: 1180px;                
+}
