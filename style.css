@@ -67,3 +67,13 @@ a{
   width: 100%;
   margin-left: 4%;            
  }
+ .header h1{
+  width: 100%;
+  left: 0px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 44px;
+  line-height: 40px;
+  color: #FFFFFF;
+  margin-top: 150PX ;             
+ }
