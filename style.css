@@ -207,3 +207,33 @@ input[type="text"]{
  align-items: center;
  color: #7D7D7D;               
 }
+:focus::-webkit-input-placeholder{
+ opacity: 0.5;
+}
+::-webkit-scrollbar{
+ width: 8px ;               
+}
+::-webkit-scrollbar-thumb{
+ background: rbg (170 170 170);
+ border-radius: 20px;
+}
+::-webkit-scrollbar-thum:hover{
+ background: rbg(96 96 96) ;            
+}
+.icon{
+ position: absolute;
+ height: 155px;
+ width: 100%;
+ bottom: 0;
+ background: #FFD439;
+}
+.button{
+ position: absolute;
+ top: 20px;
+ flex-direction: row;
+ display: flex;
+ align-items: flex-start;
+ padding: 0px;
+ left: calc(50% - 190px/2);
+}
+.button i
