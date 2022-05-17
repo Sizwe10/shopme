@@ -236,4 +236,11 @@ input[type="text"]{
  padding: 0px;
  left: calc(50% - 190px/2);
 }
-.button i
+.button img{
+ display: flex;
+ flex-direction: column;
+ position: absolute;
+ top: 60px;
+ left: 20px; 
+ color: #FFFFFF;   
+}
